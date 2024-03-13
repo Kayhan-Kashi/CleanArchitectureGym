@@ -1,0 +1,17 @@
+D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Infrastructure\bin\Debug\net8.0\GymManagement.Infrastructure.deps.json
+D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Infrastructure\bin\Debug\net8.0\GymManagement.Infrastructure.dll
+D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Infrastructure\bin\Debug\net8.0\GymManagement.Infrastructure.pdb
+D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Infrastructure\bin\Debug\net8.0\GymManagement.Application.dll
+D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Infrastructure\bin\Debug\net8.0\GymManagement.Domain.dll
+D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Infrastructure\bin\Debug\net8.0\GymManagement.Application.pdb
+D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Infrastructure\bin\Debug\net8.0\GymManagement.Domain.pdb
+D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Infrastructure\obj\Debug\net8.0\GymManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Infrastructure\obj\Debug\net8.0\GymManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Infrastructure\obj\Debug\net8.0\GymManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Infrastructure\obj\Debug\net8.0\GymManagement.Infrastructure.AssemblyInfo.cs
+D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Infrastructure\obj\Debug\net8.0\GymManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Infrastructure\obj\Debug\net8.0\GymManagement.Infrastructure.csproj.CopyComplete
+D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Infrastructure\obj\Debug\net8.0\GymManagement.Infrastructure.dll
+D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Infrastructure\obj\Debug\net8.0\refint\GymManagement.Infrastructure.dll
+D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Infrastructure\obj\Debug\net8.0\GymManagement.Infrastructure.pdb
+D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Infrastructure\obj\Debug\net8.0\ref\GymManagement.Infrastructure.dll

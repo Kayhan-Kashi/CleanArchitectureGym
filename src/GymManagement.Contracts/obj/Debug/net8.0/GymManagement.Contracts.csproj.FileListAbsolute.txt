@@ -1,0 +1,11 @@
+D:\Projects\DotNet\CleanArchitectureGymDemo\src\GymManagement.Contracts\obj\Debug\net8.0\GymManagement.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DotNet\CleanArchitectureGymDemo\src\GymManagement.Contracts\obj\Debug\net8.0\GymManagement.Contracts.AssemblyInfoInputs.cache
+D:\Projects\DotNet\CleanArchitectureGymDemo\src\GymManagement.Contracts\obj\Debug\net8.0\GymManagement.Contracts.AssemblyInfo.cs
+D:\Projects\DotNet\CleanArchitectureGymDemo\src\GymManagement.Contracts\obj\Debug\net8.0\GymManagement.Contracts.csproj.CoreCompileInputs.cache
+D:\Projects\DotNet\CleanArchitectureGymDemo\src\GymManagement.Contracts\bin\Debug\net8.0\GymManagement.Contracts.deps.json
+D:\Projects\DotNet\CleanArchitectureGymDemo\src\GymManagement.Contracts\bin\Debug\net8.0\GymManagement.Contracts.dll
+D:\Projects\DotNet\CleanArchitectureGymDemo\src\GymManagement.Contracts\bin\Debug\net8.0\GymManagement.Contracts.pdb
+D:\Projects\DotNet\CleanArchitectureGymDemo\src\GymManagement.Contracts\obj\Debug\net8.0\GymManagement.Contracts.dll
+D:\Projects\DotNet\CleanArchitectureGymDemo\src\GymManagement.Contracts\obj\Debug\net8.0\refint\GymManagement.Contracts.dll
+D:\Projects\DotNet\CleanArchitectureGymDemo\src\GymManagement.Contracts\obj\Debug\net8.0\GymManagement.Contracts.pdb
+D:\Projects\DotNet\CleanArchitectureGymDemo\src\GymManagement.Contracts\obj\Debug\net8.0\ref\GymManagement.Contracts.dll

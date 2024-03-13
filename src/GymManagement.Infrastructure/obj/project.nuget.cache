@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ekwzHmOIXt+IPnzr/UMbj+Y0Yw6pE4k+9XawVLxcMEc5FFJz7Q2NQBmOBY0V5mXfeBMhMDdooXiYbvpX5Mdi0Q==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\DotNet\\CleanArchitectureGymDemo\\src\\GymManagement.Infrastructure\\GymManagement.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\erroror\\1.10.0\\erroror.1.10.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

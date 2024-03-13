@@ -1,0 +1,11 @@
+D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Domain\bin\Debug\net8.0\GymManagement.Domain.deps.json
+D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Domain\bin\Debug\net8.0\GymManagement.Domain.dll
+D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Domain\bin\Debug\net8.0\GymManagement.Domain.pdb
+D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Domain\obj\Debug\net8.0\GymManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Domain\obj\Debug\net8.0\GymManagement.Domain.AssemblyInfoInputs.cache
+D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Domain\obj\Debug\net8.0\GymManagement.Domain.AssemblyInfo.cs
+D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Domain\obj\Debug\net8.0\GymManagement.Domain.csproj.CoreCompileInputs.cache
+D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Domain\obj\Debug\net8.0\GymManagement.Domain.dll
+D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Domain\obj\Debug\net8.0\refint\GymManagement.Domain.dll
+D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Domain\obj\Debug\net8.0\GymManagement.Domain.pdb
+D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Domain\obj\Debug\net8.0\ref\GymManagement.Domain.dll
