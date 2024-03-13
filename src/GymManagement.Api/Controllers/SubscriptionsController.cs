@@ -25,17 +25,11 @@ namespace GymManagement.Api.Controllers
                 request.adminId);
 
             var createSubscriptionResult = await _mediator.Send(command); // we use ErrorOr package that do the Result pattern
-            if (createSubscriptionResult.IsError)
-            {
-                return Problem();  // return 500
-            }
 
-
-            var response = new SubscriptionResponse(
-                createSubscriptionResult.Value,  // returns underline Guid value
-                request.subscriptionType);
-
-            return Ok(response);
+            return createSubscriptionResult.MatchFirst(
+                guid => Ok(new SubscriptionResponse(guid, request.subscriptionType)),
+                error => Problem()
+            );
         }
     }
 }
