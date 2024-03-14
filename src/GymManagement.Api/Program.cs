@@ -1,4 +1,3 @@
-using GymManagement.Application.Services;
 using static GymManagement.Application.DependencyInjection;
 using static GymManagement.Infrastructure.DependencyInjection;
 

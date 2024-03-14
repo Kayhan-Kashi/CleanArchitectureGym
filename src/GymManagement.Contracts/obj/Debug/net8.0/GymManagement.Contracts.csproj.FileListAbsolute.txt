@@ -9,3 +9,4 @@ D:\Projects\DotNet\CleanArchitectureGymDemo\src\GymManagement.Contracts\obj\Debu
 D:\Projects\DotNet\CleanArchitectureGymDemo\src\GymManagement.Contracts\obj\Debug\net8.0\refint\GymManagement.Contracts.dll
 D:\Projects\DotNet\CleanArchitectureGymDemo\src\GymManagement.Contracts\obj\Debug\net8.0\GymManagement.Contracts.pdb
 D:\Projects\DotNet\CleanArchitectureGymDemo\src\GymManagement.Contracts\obj\Debug\net8.0\ref\GymManagement.Contracts.dll
+D:\Projects\DotNet\CleanArchitectureGymDemo\src\GymManagement.Contracts\obj\Debug\net8.0\GymManagement.Contracts.sourcelink.json

@@ -43,3 +43,4 @@ D:\Projects\DotNet\CleanArchitectureGymDemo\src\gymmanagement.api\bin\Debug\net8
 D:\Projects\DotNet\CleanArchitectureGymDemo\src\gymmanagement.api\bin\Debug\net8.0\MediatR.dll
 D:\Projects\DotNet\CleanArchitectureGymDemo\src\gymmanagement.api\bin\Debug\net8.0\MediatR.Contracts.dll
 D:\Projects\DotNet\CleanArchitectureGymDemo\src\gymmanagement.api\bin\Debug\net8.0\ErrorOr.dll
+D:\Projects\DotNet\CleanArchitectureGymDemo\src\gymmanagement.api\obj\Debug\net8.0\GymManagement.Api.sourcelink.json

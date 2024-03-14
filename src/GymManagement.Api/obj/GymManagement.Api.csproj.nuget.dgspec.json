@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\DotNet\\CleanArchitectureGymDemo\\src\\GymManagement.Api\\GymManagement.Api.csproj": {}
+    "D:\\Projects\\DotNet\\CleanArchitectureGymDemo\\src\\gymmanagement.api\\GymManagement.Api.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\DotNet\\CleanArchitectureGymDemo\\src\\GymManagement.Api\\GymManagement.Api.csproj": {
+    "D:\\Projects\\DotNet\\CleanArchitectureGymDemo\\src\\gymmanagement.api\\GymManagement.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\DotNet\\CleanArchitectureGymDemo\\src\\GymManagement.Api\\GymManagement.Api.csproj",
+        "projectUniqueName": "D:\\Projects\\DotNet\\CleanArchitectureGymDemo\\src\\gymmanagement.api\\GymManagement.Api.csproj",
         "projectName": "GymManagement.Api",
-        "projectPath": "D:\\Projects\\DotNet\\CleanArchitectureGymDemo\\src\\GymManagement.Api\\GymManagement.Api.csproj",
+        "projectPath": "D:\\Projects\\DotNet\\CleanArchitectureGymDemo\\src\\gymmanagement.api\\GymManagement.Api.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\DotNet\\CleanArchitectureGymDemo\\src\\GymManagement.Api\\obj\\",
+        "outputPath": "D:\\Projects\\DotNet\\CleanArchitectureGymDemo\\src\\gymmanagement.api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -31,8 +31,8 @@
               "D:\\Projects\\DotNet\\CleanArchitectureGymDemo\\src\\GymManagement.Application\\GymManagement.Application.csproj": {
                 "projectPath": "D:\\Projects\\DotNet\\CleanArchitectureGymDemo\\src\\GymManagement.Application\\GymManagement.Application.csproj"
               },
-              "D:\\Projects\\DotNet\\CleanArchitectureGymDemo\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj": {
-                "projectPath": "D:\\Projects\\DotNet\\CleanArchitectureGymDemo\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj"
+              "d:\\Projects\\DotNet\\CleanArchitectureGymDemo\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj": {
+                "projectPath": "d:\\Projects\\DotNet\\CleanArchitectureGymDemo\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj"
               },
               "D:\\Projects\\DotNet\\CleanArchitectureGymDemo\\src\\GymManagement.Infrastructure\\GymManagement.Infrastructure.csproj": {
                 "projectPath": "D:\\Projects\\DotNet\\CleanArchitectureGymDemo\\src\\GymManagement.Infrastructure\\GymManagement.Infrastructure.csproj"
@@ -155,14 +155,14 @@
         }
       }
     },
-    "D:\\Projects\\DotNet\\CleanArchitectureGymDemo\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj": {
+    "d:\\Projects\\DotNet\\CleanArchitectureGymDemo\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\DotNet\\CleanArchitectureGymDemo\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj",
+        "projectUniqueName": "d:\\Projects\\DotNet\\CleanArchitectureGymDemo\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj",
         "projectName": "GymManagement.Contracts",
-        "projectPath": "D:\\Projects\\DotNet\\CleanArchitectureGymDemo\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj",
+        "projectPath": "d:\\Projects\\DotNet\\CleanArchitectureGymDemo\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\DotNet\\CleanArchitectureGymDemo\\src\\GymManagement.Contracts\\obj\\",
+        "outputPath": "d:\\Projects\\DotNet\\CleanArchitectureGymDemo\\src\\GymManagement.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

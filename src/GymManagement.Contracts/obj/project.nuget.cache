@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kOthZkx+hwhoVwjnt6G2vYDi+qEENsJqJdxnW7hsHl0NyVDK4fFOz6W5exDfh8HnkFw5eOjklyY6TcHxd18b5Q==",
+  "dgSpecHash": "SmuEyHs4s9WZat1ee3Q+U+ZPhrs1okRhIz4WK0CCSkZuIjIUvJeGSO8gbERvAb0X92oW5yYK3JV93eZny/D1zQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\DotNet\\CleanArchitectureGymDemo\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj",
+  "projectFilePath": "d:\\Projects\\DotNet\\CleanArchitectureGymDemo\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

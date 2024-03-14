@@ -9,3 +9,4 @@ D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Domain\obj\Debug\n
 D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Domain\obj\Debug\net8.0\refint\GymManagement.Domain.dll
 D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Domain\obj\Debug\net8.0\GymManagement.Domain.pdb
 D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Domain\obj\Debug\net8.0\ref\GymManagement.Domain.dll
+D:\Projects\DotNet\CleanArchitectureGymDemo\src\GymManagement.Domain\obj\Debug\net8.0\GymManagement.Domain.sourcelink.json

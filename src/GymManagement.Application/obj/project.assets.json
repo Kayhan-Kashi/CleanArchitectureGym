@@ -173,11 +173,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\DotNet\\CleanArchitectureGymDemo\\src\\GymManagement.application\\GymManagement.Application.csproj",
+      "projectUniqueName": "D:\\Projects\\DotNet\\CleanArchitectureGymDemo\\src\\GymManagement.Application\\GymManagement.Application.csproj",
       "projectName": "GymManagement.Application",
-      "projectPath": "D:\\Projects\\DotNet\\CleanArchitectureGymDemo\\src\\GymManagement.application\\GymManagement.Application.csproj",
+      "projectPath": "D:\\Projects\\DotNet\\CleanArchitectureGymDemo\\src\\GymManagement.Application\\GymManagement.Application.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\DotNet\\CleanArchitectureGymDemo\\src\\GymManagement.application\\obj\\",
+      "outputPath": "D:\\Projects\\DotNet\\CleanArchitectureGymDemo\\src\\GymManagement.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

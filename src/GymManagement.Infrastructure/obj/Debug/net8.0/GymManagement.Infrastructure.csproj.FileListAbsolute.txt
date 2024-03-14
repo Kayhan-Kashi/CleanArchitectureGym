@@ -15,3 +15,4 @@ D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Infrastructure\obj
 D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Infrastructure\obj\Debug\net8.0\refint\GymManagement.Infrastructure.dll
 D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Infrastructure\obj\Debug\net8.0\GymManagement.Infrastructure.pdb
 D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Infrastructure\obj\Debug\net8.0\ref\GymManagement.Infrastructure.dll
+D:\Projects\DotNet\CleanArchitectureGymDemo\src\GymManagement.Infrastructure\obj\Debug\net8.0\GymManagement.Infrastructure.sourcelink.json

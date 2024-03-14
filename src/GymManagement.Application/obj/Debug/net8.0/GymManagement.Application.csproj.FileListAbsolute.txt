@@ -13,3 +13,4 @@ D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Application\obj\De
 D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Application\obj\Debug\net8.0\refint\GymManagement.Application.dll
 D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Application\obj\Debug\net8.0\GymManagement.Application.pdb
 D:\projects\dotnet\cleanarchitecturegymdemo\src\GymManagement.Application\obj\Debug\net8.0\ref\GymManagement.Application.dll
+D:\Projects\DotNet\CleanArchitectureGymDemo\src\GymManagement.Application\obj\Debug\net8.0\GymManagement.Application.sourcelink.json
