@@ -1,4 +1,3 @@
-using GymManagement.Application.Services;
 using GymManagement.Application.Subscriptions.Commands.CreateSubscription;
 using GymManagement.Contracts.Subscriptions;
 using MediatR;
@@ -27,7 +26,7 @@ namespace GymManagement.Api.Controllers
             var createSubscriptionResult = await _mediator.Send(command); // we use ErrorOr package that do the Result pattern
 
             return createSubscriptionResult.MatchFirst(
-                guid => Ok(new SubscriptionResponse(guid, request.subscriptionType)),
+                subscription => Ok(new SubscriptionResponse(subscription.Id, request.subscriptionType)),
                 error => Problem()
             );
         }
