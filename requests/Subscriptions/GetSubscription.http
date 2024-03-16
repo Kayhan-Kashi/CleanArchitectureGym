@@ -1,4 +1,4 @@
-@host=http://localhost:5209
-@subscriptionId=115092ae-859e-4404-bf72-ce36d7d3b69f
+@host=http://localhost:5152
+@subscriptionId=d4ce75a6-bda4-49b6-b47e-961fae7bf423
 
-GET {{host}}/Subscription/{{{{subscriptionId}}}}
+GET {{host}}/Subscriptions/{{subscriptionId}}

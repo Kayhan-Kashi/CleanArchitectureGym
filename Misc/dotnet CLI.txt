@@ -1,0 +1,16 @@
+dotnet new webapi GymManagement.api
+dotnet new classlib GymManagement.application
+dotnet add webapi GymManagement.api reference GymManagement.application
+dotnet new sln --name "GymManagament"
+dotnet sln add (ls -r **/*.csproj)
+dotnet run --project  src/GymManagement.api
+dotnet add src/GymManagement.Application package Microsoft.Extensions.DependencyInjection.Abstractions
+dotnet add src/GymManagement.Infrastructure package mediatR
+dotnet add src/GymManagement.application package ErrorOr
+dotnet add src/GymManagement.infrastructure package Microsoft.EntityFrameworkCore
+dotnet add src/GymManagement.Infrastructure package Microsoft.EntityframeworkCore.Sqlite
+dotnet add src/GymManagement.Api package Microsoft.EntityframeworkCore.Design   // for migration
+dotnet tool install --global dotnet-ef --version 8.*
+dotnet ef migrations add InitialCreate -p src/GymManagement.Infrastructure -s src/GymManagement.Api
+dotnet ef database update -p src/GymManagement.Infrastructure -s src/GymManagement.Api
+dotnet add src/GymManagement.Domain package Ardalis.SmartEnum
