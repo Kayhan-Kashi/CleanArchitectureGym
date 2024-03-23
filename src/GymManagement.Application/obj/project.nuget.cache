@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "h4EeJ9clYil4wWTo4vSUwjRJZ/nJ1g4MpFEYoAyCEIMEZVFoguH4ClQPl5BoR5DDnJ3O1nEL0dLFqKqL86B7lQ==",
+  "dgSpecHash": "FhqDkzd0kzsLqq9ZL0UMir2nsIoHXA80ksdSbNr6JaFPrzcqPJhqM1YWZuBoBq1l8OAcnEJy+YRgQOTt2nPORQ==",
   "success": true,
   "projectFilePath": "D:\\Projects\\DotNet\\CleanArchitectureGymDemo\\src\\GymManagement.Application\\GymManagement.Application.csproj",
   "expectedPackageFiles": [
@@ -9,7 +9,9 @@
     "C:\\Users\\ASUS\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
-    "C:\\Users\\ASUS\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+    "C:\\Users\\ASUS\\.nuget\\packages\\oneof\\3.0.216\\oneof.3.0.216.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\throw\\1.4.0\\throw.1.4.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -12,7 +12,7 @@ namespace GymManagement.Infrastructure.Subscriptions.Persistance
 
             builder.Property(s => s.Id).ValueGeneratedNever();
 
-            builder.Property("_adminId")
+            builder.Property("AdminId")
                 .HasColumnName("AdminId"); // Although this field is readonly and it is not a property we can configute it to have it's own column
 
             builder.Property(s => s.SubscriptionType)

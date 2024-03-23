@@ -14,3 +14,6 @@ dotnet tool install --global dotnet-ef --version 8.*
 dotnet ef migrations add InitialCreate -p src/GymManagement.Infrastructure -s src/GymManagement.Api
 dotnet ef database update -p src/GymManagement.Infrastructure -s src/GymManagement.Api
 dotnet add src/GymManagement.Domain package Ardalis.SmartEnum
+dotnet add src/GymManagement.Domain package Throw
+dotnet add src/GymManagement.Domain package ErrorOr   
+dotnet build  src/GymManagement.api    

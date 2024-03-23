@@ -1,5 +1,7 @@
 using GymManagement.Application.Common.Interfaces;
+using GymManagement.Infrastructure.Admins.Persistance;
 using GymManagement.Infrastructure.Common;
+using GymManagement.Infrastructure.Gyms;
 using GymManagement.Infrastructure.Subscriptions.Persistance;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
@@ -12,8 +14,13 @@ namespace GymManagement.Infrastructure
         {
             services.AddDbContext<GymManagementDbContext>(options =>
                 options.UseSqlite("Data Source= GymManagement.db"));
+
+            services.AddScoped<IAdminsRepository, AdminsRepository>();
+            services.AddScoped<IGymsRepository, GymsRepository>();
             services.AddScoped<ISubscriptionsRepository, SubscriptionsRepository>();
+
             services.AddScoped<IUnitOfWork>(serviceProvider => serviceProvider.GetRequiredService<GymManagementDbContext>());
+
             return services;
         }
     }

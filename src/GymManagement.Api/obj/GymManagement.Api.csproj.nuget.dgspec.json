@@ -255,6 +255,14 @@
             "Ardalis.SmartEnum": {
               "target": "Package",
               "version": "[8.0.0, )"
+            },
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[1.10.0, )"
+            },
+            "Throw": {
+              "target": "Package",
+              "version": "[1.4.0, )"
             }
           },
           "imports": [

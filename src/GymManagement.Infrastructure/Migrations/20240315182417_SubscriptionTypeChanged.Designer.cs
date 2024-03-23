@@ -28,7 +28,7 @@ namespace GymManagement.Infrastructure.Migrations
                     b.Property<int>("SubscriptionType")
                         .HasColumnType("INTEGER");
 
-                    b.Property<Guid>("_adminId")
+                    b.Property<Guid>("AdminId")
                         .HasColumnType("TEXT")
                         .HasColumnName("AdminId");
 
