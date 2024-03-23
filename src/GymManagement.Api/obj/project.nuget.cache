@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wa+R+JxaU3oz3PxVkvK2pfyywxNDhyRmYJZzJEAzRnVjjh2yszZbZ1ETiw0lnGHXqNE04j01HKYnuRvL0K6Ldg==",
+  "dgSpecHash": "A+ekNtTNVpZp1unkVM+TL1UiNMoU8cyWdJ760nQShTqSR5HOftHYtWwkKx8DZXXuvuPFhrFRg9lW5x3xFvhwPA==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\DotNet\\CleanArchitectureGymDemo\\src\\GymManagement.api\\GymManagement.Api.csproj",
+  "projectFilePath": "D:\\Projects\\DotNet\\CleanArchitectureGymDemo\\src\\GymManagement.Api\\GymManagement.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\ardalis.smartenum\\8.0.0\\ardalis.smartenum.8.0.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\erroror\\1.10.0\\erroror.1.10.0.nupkg.sha512",
