@@ -11,7 +11,7 @@ namespace GymManagement.Api.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class SubscriptionsController : ControllerBase
+    public class SubscriptionsController : ApiController
     {
         private readonly IMediator _mediator;
 

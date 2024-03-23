@@ -7,12 +7,15 @@ using GymManagement.Application.Gyms.Queries.ListGyms;
 using GymManagement.Contracts.Gyms;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.ModelBinding;
+using static System.Runtime.InteropServices.JavaScript.JSType;
+using Error = ErrorOr.Error;
 
 namespace GymManagement.Api.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class GymsController : ControllerBase
+    public class GymsController : ApiController
     {
         private readonly IMediator _mediator;
 
@@ -22,7 +25,7 @@ namespace GymManagement.Api.Controllers
         }
 
         [HttpPost]
-        public async Task<ActionResult> CreateGym(
+        public async Task<IActionResult> CreateGym(
             CreateGymRequest request,
             Guid subscriptionId)
         {
@@ -35,7 +38,7 @@ namespace GymManagement.Api.Controllers
                     nameof(GetGym),
                     new { subscriptionId, GymId = gym.Id },
                     new GymResponse(gym.Id, gym.Name)),
-                _ => Problem());
+                errors => Problem(errors));
         }
 
         [HttpDelete("gymId:guid")]
@@ -45,9 +48,9 @@ namespace GymManagement.Api.Controllers
 
             var deleteGymResult = await _mediator.Send(command);
 
-            return deleteGymResult.Match<ActionResult>(
+            return deleteGymResult.Match<IActionResult>(
                 _ => NoContent(),
-                _ => Problem()
+                Problem
             );
         }
 
@@ -85,5 +88,7 @@ namespace GymManagement.Api.Controllers
                 _ => Problem()
             );
         }
+
+
     }
 }

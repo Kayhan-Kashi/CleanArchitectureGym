@@ -27,7 +27,7 @@ namespace GymManagement.Application.Gyms.Command.CreateGym
 
             if (subscription is null)
             {
-                return Error.NotFound(description: "Subscription not found");
+                return Error.NotFound(description: "Subscription not found");  // Application level validation and error
             }
 
             var gym = new Gym(

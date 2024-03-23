@@ -32,7 +32,7 @@ namespace GymManagement.Domain.Subscriptions
 
             if (_gymIds.Count >= _maxGyms)
             {
-                return SubscriptionErrors.CannotHaveMoreGymsThanSubscriptionAllows;
+                return SubscriptionErrors.CannotHaveMoreGymsThanSubscriptionAllows; // Domain level Error and validation level
             }
 
             _gymIds.Add(gym.Id);
